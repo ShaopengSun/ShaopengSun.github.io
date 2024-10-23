@@ -2,7 +2,7 @@
 
 [![ShaopengSun](https://img.shields.io/badge/ShaopengSun-github-blue?logo=github)](https://github.com/ShaopengSun)
 
-He is currently pursuing a Master's Degree in Digestive system diseases, at School of Integrated Traditional Chinese and Western Medicine, Zhejiang Chinese Medical university, Hangzhou, Zhejiang,China.
+He is currently pursuing a Doctor's Degree in Integrated Traditional Chinese and Western Medicine at Zhejiang Chinese Medical university.
 
 #### Email
 sunshaopeng0903@qq.com
