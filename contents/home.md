@@ -8,9 +8,9 @@ He is currently pursuing a Master's Degree in Digestive system diseases, at Scho
 sunshaopeng0903@qq.com
 
 #### Education
-M.E., Gastroenterology,  Zhejiang Chinese Medical University,Hangzhou,Zhejiang Province,China, 2023—2026 (expected).\
-B.E., Gastroenterology,  Zhejiang Chinese Medical University,Hangzhou,Zhejiang Province,China, 2018—2022.\
-M.M., Clinical medicine, Xuzhou Medical University,Xuzhou,Jiangsu Province,China, 2010-2006
+Ph.D., Gastroenterology,  Zhejiang Chinese Medical University,Hangzhou,Zhejiang Province,China, 2023—2026 (expected).\
+M.D.,  Gastroenterology,  Zhejiang Chinese Medical University,Hangzhou,Zhejiang Province,China, 2018—2022.\
+M.M.,  Clinical medicine, Xuzhou Medical University,Xuzhou,Jiangsu Province,China, 2010-2016
 #### Research Interests
 Irritable bowel syndrome; Inflammatory bowel disease
 
