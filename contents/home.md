@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ShaopengSun](https://img.shields.io/badge/ShaopengSun-github-blue?logo=github)](https://github.com/ShaopengSun)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Master's Degree in Digestive system diseases, at School of Integrated Traditional Chinese and Western Medicine, Zhejiang Chinese Medical university, Hangzhou, Zhejiang,China.
 
 #### Email
-sli[at]cumt.edu.cn
+sunshaopeng0903@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
+M.E., Integrated Traditional Chinese and Western Medicine(Gastroenterology), Zhejiang Chinese Medical University,Hangzhou,Zhejiang Province,China, 2023—2026 (expected).\
+B.E., Gastroenterology, Zhejiang Chinese Medical University,Hangzhou,Zhejiang Province,China, 2018—2022.\
+M.M., Clinical medicine, Xuzhou Medical University,Xuzhou,Jiangsu Province,China, 2010-2006
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Irritable bowel syndrome; Inflammatory bowel disease.
 
